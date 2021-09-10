@@ -1,63 +1,47 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Programme du club :
+##### Côté développement et formations :
+- formation en outils bureautique :
+    - Word 
+    - Excel
+    - Powerpoint
+    - Access
+- Multimédia :
+    - Photoshop (notions de base).
+    - Adobe Illustrator.
+    - Montage vidéo.
+    - Création d’un site web statique.(HTML/CSS/JS)
+    - Architecture des ordinateurs et algèbre relationnel.
+    - Gestion d’une base de données (SQL).
+    - Création d’un site web dynamique.(HTML/CSS/JS/PHP)
+    - Langage C/C#.
+    - Programmation orientée objet.
+    - Administration des réseaux.
+    - Assistance à distance (lors d’une panne).
+    - Préparation aux concours des grandes écoles pour les DUT informatique.
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
-## About Laravel
+# Côté service scolaire :
+- Création des flyers et affiches lors des forums.
+- Réparation et aide technique concernant les ordinateurs.
+- Maintenance et mise à niveau du site web de l’ENS.
+- Montage et triage des vidéos, photos lors des événements.
+- Organisation des compétitions universitaire.
+- Compétition de programmation dans plusieurs langages.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+# Objectif :
+- Hisser le niveau scientifique des étudiants dans le domaine informatique,
+- Familiariser les étudiants à l’environnement informatique,
+- Organiser des compétitions informatique en groupes,
+- Représenter l’Université dans les différentes manifestations informatique.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+# Évènements :
+Le club Bridge'ENS chapeaute plusieurs événements organisés au sein de L'ENS dans le cadre de développement durable pour objectif de sensibiliser tous les étudiants à la participation et l'intégration dans la vie culturelle et pouvoir construire une personnalité sociale et responsable.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+# Cours :
+Les cours et le domaine de recherche du Pr.LAANAOUI.
+Les cours assurés au sein du département informatique et les différents départements auxquels il intervient. Ainsi que les centres d'intérêt de recherche scientifique et la démarche participative qu'il adopte dans le cadre de partenariat entreprise université.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[CMS Max](https://www.cmsmax.com/)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# Formations :
+Dans le cadre du développement durable adopté par notre pays. Le club Bridge'ENS assure des formations visant à sensibiliser l'ensemble des lauréats de L'ENS en tant que futurs professeurs pour faciliter et numériser l'opération d'enseignement.
