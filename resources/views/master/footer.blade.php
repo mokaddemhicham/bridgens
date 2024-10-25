@@ -35,14 +35,14 @@
 
         <div class="row">
             <div class="col-md-6 wow fadeInLeft" data-wow-delay="0s" >
-                <div class="mt10 copyright">© Copyright 2021 - Developed by <a href="https://www.instagram.com/mokaddem.hicham" target="_blank">Hicham Mokaddem</a> </div>
+                <div class="mt10 copyright">© Copyright <span id="current-year"></span> - Developed by <a href="https://mokaddemhicham.ma" target="_blank">Hicham Mokaddem</a> </div>
             </div>
 
             <div class="col-md-6 wow fadeInRight" data-wow-delay="0s" style="text-align: right;">
                 <div class="social-icons">
                     <a href="https://www.facebook.com/bridge.ens" target="_blank"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.instagram.com/bridge.ens" target="_blank"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-twitter" target="_blank"></i></a>
+                    <a href="https://www.linkedin.com/company/bridgens"><i class="fab fa-linkedin" target="_blank"></i></a>
                     <a href="#"><i class="fab fa-google-plus-g" target="_blank"></i></a>
                 </div>
             </div>
@@ -57,3 +57,6 @@
     </div>
     <div class="scrollToTop"><i class="fas fa-chevron-up"></i></div>
 </footer>
+<script>
+    document.getElementById('current-year').textContent = new Date().getFullYear();
+</script>
